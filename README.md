@@ -19,5 +19,5 @@ A simple PDF reader application built with Python and Tkinter. This application 
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/yourusername/pdf-reader.git
+   git clone https://github.com/Sunantha2411/CodeClauseInternship_PDFReader
    cd pdf-reader
